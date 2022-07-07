@@ -1,5 +1,5 @@
 
-number = 6
+number = 3
 
 if (number > 0) and (number == 1):
     print(f'{number}st')
