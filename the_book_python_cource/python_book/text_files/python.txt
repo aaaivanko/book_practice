@@ -1,0 +1,6 @@
+In python I learned tuples
+In python I learned dict
+In python I learned lists
+In python I learned OOP
+In python I learned functions
+In python I learned classes
